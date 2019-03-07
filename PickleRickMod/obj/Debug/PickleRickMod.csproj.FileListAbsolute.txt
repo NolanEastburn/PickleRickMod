@@ -1,0 +1,10 @@
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\PickleRickMod.dll
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\PickleRickMod.pdb
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.csproj.CoreCompileInputs.cache
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.dll
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.pdb
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.csprojAssemblyReference.cache
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\artifactpicklerickstatue.png
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerick.png
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerickstatue.png
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerickstatuecolor.png
