@@ -1,10 +1,10 @@
 {
   "Name": "Pickle Rick",
   "Author": "Narlan",
-  "Version": "1.0.0",
+  "Version": "1.1.0-alpha",
   "Description": "Sea cucumber retexture",
   "UniqueID": "narlan.picklerickmod",
   "EntryDll": "PickleRickMod.dll",
   "MinimumApiVersion": "2.9",
-  "UpdateKeys": []
+  "UpdateKeys": [ "GitHub:NolanEastburn/PickleRickMod" ]
 }

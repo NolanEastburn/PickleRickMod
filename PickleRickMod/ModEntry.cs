@@ -61,7 +61,7 @@ namespace PickleRickMod
                 {
                     Monitor.Log($"Added asset in '{asset.AssetName}'.");
                     IDictionary<int, string> data = asset.AsDictionary<int, string>().Data;
-                    data[154] = "Pickle Rick/75/-200/Fish -4/Pickle Rick/Hey Morty look, I'm a pickle!/Day^Fall Winter";
+                    data[154] = "Pickle Rick/75/30/Fish -4/Pickle Rick/Hey Morty look, I'm a pickle!/Day^Fall Winter";
                     data[113] = "Pickle Rick Statue/50/-300/Arch/Pickle Rick Statue/It's a statue of pickle rick! What demoic cult made this?/Farm .1/Decor 5 31";
                 }
 
