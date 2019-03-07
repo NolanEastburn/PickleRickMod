@@ -54,7 +54,9 @@
     <Analyzer Include="..\packages\Pathoschild.Stardew.ModBuildConfig.2.2.0\analyzers\dotnet\cs\StardewModdingAPI.ModBuildConfig.Analyzer.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="assets\artifactpicklerickstatue.png" />
+    <Content Include="assets\artifactpicklerickstatue.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="assets\picklerick.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

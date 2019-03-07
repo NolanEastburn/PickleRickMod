@@ -6,3 +6,5 @@ C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.
 C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerick.png
 C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerickstatue.png
 C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\picklerickstatuecolor.png
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\bin\Debug\assets\artifactpicklerickstatue.png
+C:\Users\Nolan\source\repos\PickleRickMod\PickleRickMod\obj\Debug\PickleRickMod.csprojAssemblyReference.cache
